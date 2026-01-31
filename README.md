@@ -71,6 +71,9 @@ Total Quantity
 Monthly Sales Trend
 
 Top Selling Products
+# Dashboard
+<img width="902" height="507" alt="Capture1111" src="https://github.com/user-attachments/assets/0c6f1471-7ec0-41c3-a9da-779b4cfc8498" />
+
 
 # Dashboard Design
 
@@ -119,17 +122,25 @@ CSV Dataset
 # Project Outcome
 
 This dashboard helps businesses to:
+
 Monitor sales and profit performance
+
 Identify top products and categories
+
 Understand customer purchase behavior
+
 Track sales trends over time
 
 # Skills Demonstrated
 
 Data Cleaning & Transformation
+
 DAX Calculations
+
 Dashboard Design
+
 Business Analysis
+
 Power BI Reporting
 
 # Conclusion
